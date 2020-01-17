@@ -3,6 +3,7 @@ module.exports = {
     title: `AeroBarrier Pros`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `AeroBarrier Pros`,
+    siteUrl: `https://airbarrierpros.com`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
