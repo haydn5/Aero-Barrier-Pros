@@ -9,6 +9,7 @@ import React from "react"
 import PropTypes from "prop-types"
 import Header from "./header"
 import "./layout.scss"
+import 'bootstrap/dist/css/bootstrap.min.css';
 import "../css/custom.css"
 import { Row, Col, Container } from "react-bootstrap"
 import { Link } from 'gatsby'
