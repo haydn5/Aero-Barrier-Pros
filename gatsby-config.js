@@ -7,14 +7,7 @@ module.exports = {
     siteUrl: `aerobarrierpros.com`,
   },
   plugins: [
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "UA-151720278-1",
-        head: true,
-        anonymize: true,
-      },
-    },
+    
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
