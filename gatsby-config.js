@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: `AeroBarrier Pros`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    description: ``,
     author: `AeroBarrier Pros`,
-    siteUrl: `https://airbarrierpros.com`,
+    siteUrl: `https://aerobarrierpros.com`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
