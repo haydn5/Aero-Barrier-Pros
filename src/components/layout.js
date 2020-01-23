@@ -94,7 +94,6 @@ export default class Layout extends React.Component {
                   <li><Link to="/find-a-dealer/">California</Link></li>
                   <li><Link to="/find-a-dealer/">Idaho</Link></li>
                   <li><Link to="/find-a-dealer/">Nevada</Link></li>
-                  <li><Link to="/find-a-dealer/">New Mexico</Link></li>
                   <li><Link to="/find-a-dealer/">Texas</Link></li>
                   <li><Link to="/find-a-dealer/">Utah</Link></li>
                   <li><Link to="/find-a-dealer/">Wyoming</Link></li>

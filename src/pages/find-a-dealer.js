@@ -48,8 +48,6 @@ const aboutTheAuthor = props => (
                   <a href="mailto:sales@aerobarrieridaho.com">sales@aaerobarrieridaho.com</a>
                 </p>
               </Col>
-            </Row>
-            <Row>
               <Col lg={4}>
                 <h3>Nevada</h3>
                 <p>
@@ -60,16 +58,7 @@ const aboutTheAuthor = props => (
 
                 
               </Col>
-              <Col lg={4}>
-              <h3>New Mexico</h3>
-                <p>
-                  Kirk Evans <br />
-                  (480) 748-1385  <br />
-                  <a href="mailto:sales@aerobarriernewmexico.com">sales@aerobarriernewmexico.com</a>
-                </p>
-
-                
-              </Col>
+              
               <Col lg={4}>
                 <h3>Texas</h3>
                 <p>
@@ -78,8 +67,6 @@ const aboutTheAuthor = props => (
                   <a href="mailto:sales@aerobarriertexas.com">sales@aerobarriertexas.com</a>
                 </p>
               </Col>
-            </Row>
-            <Row>
               <Col>
                 <h3>Utah</h3>
                 <p>
@@ -96,9 +83,6 @@ const aboutTheAuthor = props => (
                   (800) 693-2376  <br />
                   <a href="mailto:sales@aerobarrierwyoming.com">sales@aerobarrierwyoming.com</a>
                 </p>
-              </Col>
-              <Col>
-                
               </Col>
             </Row>
           </Container>
