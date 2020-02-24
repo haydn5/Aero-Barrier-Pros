@@ -15,10 +15,7 @@ export default class Header extends React.Component {
   render() {
     return (
       <>
-      <div className="corpHeader">
-        <p className="text-center"><small><strong>Click here for <a href="https://aerobarrier.net" target="_blank" rel="noopener noreferrer">Aerobarrier Corporate</a></strong></small>
-        </p>
-      </div>
+     
       <div className="container">
         <Navbar className="navbar  navbar-expand-md navbar-light" id="mainNav" expand="lg"
                 collapseOnSelect={true}>
