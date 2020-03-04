@@ -82,7 +82,7 @@ export default class Layout extends React.Component {
               <ul>
                   <li><Link to="/about/">About</Link></li>
                   <li><Link to="/benefits/">Benefits</Link></li>
-                  <li><Link to="/find-a-dealer/">Find a Dealer</Link></li>
+                  <li><Link to="/find-a-pro">Find a Pro</Link></li>
                   <li><Link to="/technical-library/">Technical Library</Link></li>
                 </ul>
               </Col>
@@ -90,13 +90,13 @@ export default class Layout extends React.Component {
               <Col lg={2}>
                 <h2>Find a Pro</h2>
                 <ul>
-                  <li><Link to="/find-a-dealer/">Arizona</Link></li>
-                  <li><Link to="/find-a-dealer/">California</Link></li>
-                  <li><Link to="/find-a-dealer/">Idaho</Link></li>
-                  <li><Link to="/find-a-dealer/">Nevada</Link></li>
-                  <li><Link to="/find-a-dealer/">Texas</Link></li>
-                  <li><Link to="/find-a-dealer/">Utah</Link></li>
-                  <li><Link to="/find-a-dealer/">Wyoming</Link></li>
+                  <li><Link to="/find-a-pro">Arizona</Link></li>
+                  <li><Link to="/find-a-pro">California</Link></li>
+                  <li><Link to="/find-a-pro">Idaho</Link></li>
+                  <li><Link to="/find-a-pro">Nevada</Link></li>
+                  <li><Link to="/find-a-pro">Texas</Link></li>
+                  <li><Link to="/find-a-pro">Utah</Link></li>
+                  <li><Link to="/find-a-pro">Wyoming</Link></li>
                 </ul>
               </Col>
             </Row>
