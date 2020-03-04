@@ -88,7 +88,7 @@ export default class Layout extends React.Component {
               </Col>
               
               <Col lg={2}>
-                <h2>Locate a Dealer</h2>
+                <h2>Find a Pro</h2>
                 <ul>
                   <li><Link to="/find-a-dealer/">Arizona</Link></li>
                   <li><Link to="/find-a-dealer/">California</Link></li>

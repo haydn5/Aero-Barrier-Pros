@@ -28,9 +28,9 @@ export default class Header extends React.Component {
               <Nav className="navbar-nav text-center ml-auto">
               <ul className="navbar-nav  text-center">
 	              
-                <li><Link to="/about/" className="nav-link" activeClassName="active">About</Link></li>
-                <li><Link to="/benefits/" className="nav-link" activeClassName="active">Benefits</Link></li>
-                <li><Link to="/find-a-dealer/" className="nav-link" activeClassName="active">Find a Dealer</Link></li>
+                <li><Link to="/about" className="nav-link" activeClassName="active">About</Link></li>
+                <li><Link to="/benefits" className="nav-link" activeClassName="active">Benefits</Link></li>
+                <li><Link to="/find-a-pro" className="nav-link" activeClassName="active">Find a Pro</Link></li>
               </ul>
               </Nav>
             </Navbar.Collapse>

@@ -9,14 +9,14 @@ import indexImage from "../images/monitoring-aerobarrier.jpg"
 
 const aboutTheAuthor = props => (
   <Layout>
-        <SEO title="Find a Dealer"/>
+        <SEO title="Find a Pro"/>
         <section className="page-section">
 
         <div className="masthead fixed" style={{ backgroundImage: `url(${indexImage})` }}>
           <Container className="container h-100">
             <Row className="row h-100 align-items-center">
               <Col md="12" className="text-center">
-                <h1>Find a Dealer</h1>
+                <h1>Find a Pro</h1>
               </Col>
             </Row>
           </Container>
